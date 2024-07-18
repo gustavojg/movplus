@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import { Image } from 'expo-image';
 import { LinearGradient } from 'expo-linear-gradient';
 
-export default function App() {
+export default function Login() {
   return (
     <View style={styles.container}>
       <LinearGradient
@@ -42,3 +42,4 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+

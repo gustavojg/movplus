@@ -1,0 +1,82 @@
+{
+  "id": "1",
+  "title": "The Treasure Hunt",
+  "image": "https://picsum.photos/300/200?hmac=12121",
+  "cover": "https://picsum.photos/2224/1668?hmac=22121",
+  "description": "Join our brave explorers on their exciting quest for the lost treasure.",
+  "ageCategory": "8+",
+  "favorite": false,
+  "genre": "Adventure",
+  "pages": [
+    {
+      "text": "Había una vez una hermosa princesa llamada Blanca Nieves.",
+      "image": "imagen1.jpg",
+      "backgroundSound": "sonido1.mp3",
+      "audioReading": "audio1.mp3",
+      "videoReading": "video1.mp4"
+    },
+    {
+      "text": "Blanca Nieves vivía con su malvada madrastra, la Reina Malvina.",
+      "image": "imagen2.jpg",
+      "backgroundSound": "sonido2.mp3",
+      "audioReading": "audio2.mp3",
+      "videoReading": "video2.mp4"
+    },
+    {
+      "text": "La Reina Malvina era muy envidiosa de la belleza de Blanca Nieves y decidió deshacerse de ella.",
+      "image": "imagen3.jpg",
+      "backgroundSound": "sonido3.mp3",
+      "audioReading": "audio3.mp3",
+      "videoReading": "video3.mp4"
+    },
+    {
+      "text": "La Reina Malvina envió a un cazador a matar a Blanca Nieves en el bosque.",
+      "image": "imagen4.jpg",
+      "backgroundSound": "sonido4.mp3",
+      "audioReading": "audio4.mp3",
+      "videoReading": "video4.mp4"
+    },
+    {
+      "text": "El cazador no tuvo el corazón para hacerlo y dejó escapar a Blanca Nieves.",
+      "image": "imagen5.jpg",
+      "backgroundSound": "sonido5.mp3",
+      "audioReading": "audio5.mp3",
+      "videoReading": "video5.mp4"
+    },
+    {
+      "text": "Blanca Nieves se encontró con una cabaña en el bosque y decidió quedarse allí.",
+      "image": "imagen6.jpg",
+      "backgroundSound": "sonido6.mp3",
+      "audioReading": "audio6.mp3",
+      "videoReading": "video6.mp4"
+    },
+    {
+      "text": "La cabaña pertenecía a siete enanitos que se convirtieron en amigos de Blanca Nieves.",
+      "image": "imagen7.jpg",
+      "backgroundSound": "sonido7.mp3",
+      "audioReading": "audio7.mp3",
+      "videoReading": "video7.mp4"
+    },
+    {
+      "text": "Mientras tanto, la Reina Malvina descubrió que Blanca Nieves seguía viva y decidió matarla ella misma.",
+      "image": "imagen8.jpg",
+      "backgroundSound": "sonido8.mp3",
+      "audioReading": "audio8.mp3",
+      "videoReading": "video8.mp4"
+    },
+    {
+      "text": "La Reina Malvina intentó envenenar a Blanca Nieves con una manzana envenenada.",
+      "image": "imagen9.jpg",
+      "backgroundSound": "sonido9.mp3",
+      "audioReading": "audio9.mp3",
+      "videoReading": "video9.mp4"
+    },
+    {
+      "text": "Pero un príncipe valiente llegó y despertó a Blanca Nieves con un beso de amor verdadero.",
+      "image": "imagen10.jpg",
+      "backgroundSound": "sonido10.mp3",
+      "audioReading": "audio10.mp3",
+      "videoReading": "video10.mp4"
+    }
+  ]
+}

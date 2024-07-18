@@ -2,6 +2,7 @@
   "expo": {
     "name": "movplus",
     "slug": "movplus",
+    "scheme": "movplus",
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.example.with-new-arch"
@@ -23,7 +24,17 @@
             "newArchEnabled": true
           }
         }
+      ],
+      "expo-router",
+      [
+        "expo-font",
+        {
+          "fonts": ["./assets/fonts/Calistoga-Regular.ttf"]
+        }
       ]
     ]
+  },
+  "web": {
+    "bundler": "metro"
   }
 }

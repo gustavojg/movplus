@@ -1,0 +1,234 @@
+{
+  "categories": [
+    {
+      "name": "Adventure",
+      "stories": [
+        {
+          "id": "1",
+          "title": "The Treasure Hunt",
+          "image": "https://picsum.photos/300/200?hmac=12121",
+          "cover": "https://picsum.photos/2224/1668?hmac=22121",
+          "description": "Join our brave explorers on their exciting quest for the lost treasure.",
+          "ageCategory": "8+",
+          "favorite": false,
+          "genre": "Adventure"
+        },
+        {
+          "id": "2",
+          "title": "The Mystery of the Enchanted Forest",
+          "image": "https://picsum.photos/300/200?hmac=12122",
+          "cover": "https://picsum.photos/2224/1668?hmac=22122",
+          "description": "Uncover the hidden secrets of the enchanted forest and solve the mystery that surrounds it.",
+          "ageCategory": "10+",
+          "favorite": true,
+          "genre": "Adventure"
+        },
+        {
+          "id": "3",
+          "title": "The Hidden Castle",
+          "image": "https://picsum.photos/300/200?hmac=12123",
+          "cover": "https://picsum.photos/2224/1668?hmac=22123",
+          "description": "Discover the mysteries of the hidden castle deep within the forest.",
+          "ageCategory": "10+",
+          "favorite": true,
+          "genre": "Adventure"
+        },
+        {
+          "id": "4",
+          "title": "The Secret Cave",
+          "image": "https://picsum.photos/300/200?hmac=12124",
+          "cover": "https://picsum.photos/2224/1668?hmac=22124",
+          "description": "Explore the secret cave and find the hidden treasures within.",
+          "ageCategory": "12+",
+          "favorite": true,
+          "genre": "Adventure"
+        },
+        {
+          "id": "5",
+          "title": "The Lost Island",
+          "image": "https://picsum.photos/300/200?hmac=12125",
+          "cover": "https://picsum.photos/2224/1668?hmac=22125",
+          "description": "Navigate through the dangers of the lost island to uncover its secrets.",
+          "ageCategory": "12+",
+          "favorite": true,
+          "genre": "Adventure"
+        }
+      ]
+    },
+    {
+      "name": "Science Fiction",
+      "stories": [
+        {
+          "id": "6",
+          "title": "Journey to the Stars",
+          "image": "https://picsum.photos/300/200?hmac=12126",
+          "cover": "https://picsum.photos/2224/1668?hmac=22126",
+          "description": "Embark on an exciting space journey into the unknown.",
+          "ageCategory": "12+",
+          "favorite": false,
+          "genre": "Science Fiction"
+        },
+        {
+          "id": "7",
+          "title": "The Rebellion of the Robots",
+          "image": "https://picsum.photos/300/200?hmac=12127",
+          "cover": "https://picsum.photos/2224/1668?hmac=22127",
+          "description": "In a dystopian future, the robots rise against their creators. Can you stop them?",
+          "ageCategory": "14+",
+          "favorite": false,
+          "genre": "Science Fiction"
+        },
+        {
+          "id": "8",
+          "title": "Alien Invasion",
+          "image": "https://picsum.photos/300/200?hmac=12128",
+          "cover": "https://picsum.photos/2224/1668?hmac=22128",
+          "description": "Defend Earth from an alien invasion and save humanity.",
+          "ageCategory": "14+",
+          "favorite": false,
+          "genre": "Science Fiction"
+        },
+        {
+          "id": "9",
+          "title": "Time Travelers",
+          "image": "https://picsum.photos/300/200?hmac=12129",
+          "cover": "https://picsum.photos/2224/1668?hmac=22129",
+          "description": "Join the time travelers on their adventures through different eras.",
+          "ageCategory": "14+",
+          "favorite": false,
+          "genre": "Science Fiction"
+        },
+        {
+          "id": "10",
+          "title": "The Galactic War",
+          "image": "https://picsum.photos/300/200?hmac=121221",
+          "cover": "https://picsum.photos/2224/1668?hmac=221221",
+          "description": "Fight in the galactic war to protect your home planet.",
+          "ageCategory": "14+",
+          "favorite": false,
+          "genre": "Science Fiction"
+        },
+        {
+          "id": "11",
+          "title": "The Quantum Realm",
+          "image": "https://picsum.photos/300/200?hmac=121222",
+          "cover": "https://picsum.photos/2224/1668?hmac=221222",
+          "description": "Explore the mysteries of the quantum realm and its infinite possibilities.",
+          "ageCategory": "14+",
+          "favorite": false,
+          "genre": "Science Fiction"
+        }
+      ]
+    },
+    {
+      "name": "Fantasy",
+      "stories": [
+        {
+          "id": "12",
+          "title": "The Dragon's Secret",
+          "image": "https://picsum.photos/300/200?hmac=121223",
+          "cover": "https://picsum.photos/2224/1668?hmac=221223",
+          "description": "Discover the hidden secret of the dragon and embark on a magical journey.",
+          "ageCategory": "8+",
+          "favorite": true,
+          "genre": "Fantasy"
+        },
+        {
+          "id": "13",
+          "title": "The Magic Wand",
+          "image": "https://picsum.photos/300/200?hmac=121224",
+          "cover": "https://picsum.photos/2224/1668?hmac=221224",
+          "description": "A young wizard finds a powerful wand and learns to harness its magic.",
+          "ageCategory": "10+",
+          "favorite": false,
+          "genre": "Fantasy"
+        },
+        {
+          "id": "14",
+          "title": "The Fairy Tale",
+          "image": "https://picsum.photos/300/200?hmac=121225",
+          "cover": "https://picsum.photos/2224/1668?hmac=221225",
+          "description": "Enter a world of fairies and enchantments in this timeless tale.",
+          "ageCategory": "6+",
+          "favorite": true,
+          "genre": "Fantasy"
+        },
+        {
+          "id": "15",
+          "title": "The Enchanted Castle",
+          "image": "https://picsum.photos/300/200?hmac=121226",
+          "cover": "https://picsum.photos/2224/1668?hmac=221226",
+          "description": "Explore the mysteries and magic of the enchanted castle.",
+          "ageCategory": "10+",
+          "favorite": false,
+          "genre": "Fantasy"
+        },
+        {
+          "id": "16",
+          "title": "The Sorcerer's Apprentice",
+          "image": "https://picsum.photos/300/200?hmac=121227",
+          "cover": "https://picsum.photos/2224/1668?hmac=221227",
+          "description": "A young apprentice must prove his worth in the realm of sorcery.",
+          "ageCategory": "12+",
+          "favorite": true,
+          "genre": "Fantasy"
+        }
+      ]
+    },
+    {
+      "name": "Mystery",
+      "stories": [
+        {
+          "id": "17",
+          "title": "The Haunted Mansion",
+          "image": "https://picsum.photos/300/200?hmac=121228",
+          "cover": "https://picsum.photos/2224/1668?hmac=221228",
+          "description": "Unravel the mysteries of the haunted mansion and uncover its secrets.",
+          "ageCategory": "12+",
+          "favorite": false,
+          "genre": "Mystery"
+        },
+        {
+          "id": "18",
+          "title": "The Secret Detective",
+          "image": "https://picsum.photos/300/200?hmac=121229",
+          "cover": "https://picsum.photos/2224/1668?hmac=221229",
+          "description": "Follow the adventures of a secret detective solving thrilling cases.",
+          "ageCategory": "10+",
+          "favorite": true,
+          "genre": "Mystery"
+        },
+        {
+          "id": "19",
+          "title": "The Hidden Clue",
+          "image": "https://picsum.photos/300/200?hmac=1212210",
+          "cover": "https://picsum.photos/2224/1668?hmac=2212210",
+          "description": "Find the hidden clues and solve the mystery that baffles everyone.",
+          "ageCategory": "10+",
+          "favorite": false,
+          "genre": "Mystery"
+        },
+        {
+          "id": "20",
+          "title": "The Missing Artifact",
+          "image": "https://picsum.photos/300/200?hmac=1212211",
+          "cover": "https://picsum.photos/2224/1668?hmac=2212211",
+          "description": "Search for the missing artifact in a race against time.",
+          "ageCategory": "12+",
+          "favorite": true,
+          "genre": "Mystery"
+        },
+        {
+          "id": "21",
+          "title": "The Phantom Thief",
+          "image": "https://picsum.photos/300/200?hmac=1212212",
+          "cover": "https://picsum.photos/2224/1668?hmac=2212212",
+          "description": "Catch the elusive phantom thief and recover the stolen treasures.",
+          "ageCategory": "14+",
+          "favorite": false,
+          "genre": "Mystery"
+        }
+      ]
+    }
+  ]
+}
