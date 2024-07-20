@@ -1,11 +1,11 @@
 {
   "expo": {
     "name": "movplus",
-    "slug": "movplus",
+    "slug": "tellstory",
     "scheme": "movplus",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.example.with-new-arch"
+      "bundleIdentifier": "com.example.tellmestory"
     },
     "android": {
       "package": "com.example.withnewarch"
@@ -29,10 +29,21 @@
       [
         "expo-font",
         {
-          "fonts": ["./assets/fonts/Calistoga-Regular.ttf"]
+          "fonts": [
+            "./assets/fonts/Calistoga-Regular.ttf"
+          ]
         }
       ]
-    ]
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "10e400dc-384f-41a3-bc14-ed50419b285c"
+      }
+    },
+    "owner": "gustavo"
   },
   "web": {
     "bundler": "metro"
